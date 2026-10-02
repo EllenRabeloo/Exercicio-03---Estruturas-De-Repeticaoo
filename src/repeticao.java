@@ -2,17 +2,17 @@ import java.util.Scanner;
 
 public class repeticao {
      static void main(String[] args) {
-        //algoritmo01();
-        //algoritmo02();
-        //algoritmo03();
-        //algoritmo04();
-        //algoritmo05();
-        //algoritmo06();
-        //algoritmo07();
-        //algoritmo08();
-        //algoritmo09();
-        //algoritmo10();
-        //algoritmo11();
+        algoritmo01();
+        algoritmo02();
+        algoritmo03();
+        algoritmo04();
+        algoritmo05();
+        algoritmo06();
+        algoritmo07();
+        algoritmo08();
+        algoritmo09();
+        algoritmo10();
+        algoritmo11();
         algoritmo12();
     }
 
